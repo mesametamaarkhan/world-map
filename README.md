@@ -23,8 +23,8 @@ This project is an interactive world map built using C++ and SFML (Simple and Fa
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/mesametamaarkhan/interactive-world-map.git
-cd interactive-world-map
+git clone https://github.com/mesametamaarkhan/world-map.git
+cd world-map
 sudo apt update
 sudo apt install libsfml-dev
 g++ main.cpp -o worldmap -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
